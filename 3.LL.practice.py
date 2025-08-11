@@ -1,4 +1,4 @@
-#b站项目，林粒粒（三小时python快速入门）
+
 #one
 print("Dad!")
 print("妈！")
@@ -267,5 +267,6 @@ while True:
             print(f"您的年龄为： {age}，票价为18元")
     except ValueError:#excpet定义错误的类型是值错误，当错误后输出.....
         print("输入无效请输入正确的数字或'q'退出")
+
 
 #sixteeth
